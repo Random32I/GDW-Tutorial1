@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Owner/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/Blueprints/AI/Objective.uasset",
+				"C:/Users/Owner/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/Blueprints/AI/BP_Objective.uasset",
+				"C:/Users/Owner/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/Blueprints/AI/AI.uasset",
+				"C:/Users/Owner/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/NewMap2.umap",
+				"C:/Users/Owner/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/Blueprints/AI/BP_Spawner.uasset",
 				"C:/Users/alexl/OneDrive/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/Blueprints/Player/BP_FPCharacter.uasset",
 				"C:/Users/alexl/OneDrive/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/Blueprints/BP_Turret.uasset",
 				"C:/Users/alexl/OneDrive/Documents/GitHub/GDW-Tutorial1/MyProject2/Content/NewMap_HLOD0_Instancing.uasset",
